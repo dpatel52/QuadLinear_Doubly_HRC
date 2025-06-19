@@ -89,8 +89,8 @@ end
 
 %======================= Geometry and Loading ===========================%
 
-pointBend = 4;        % Number of point loads applied
-L = (1500);               % Length of the beam (in inches)
+pointBend = 3;        % Number of point loads applied
+L = (1200);               % Length of the beam (in inches)
 b = 150;                % Width of the beam (in inches)
 h = 500;                % Height of the beam (in inches)
 S2 = 125;               % Spacing between Loading Points (4PB) only
